@@ -1,0 +1,4 @@
+lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2022.05.30.00)
+RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
+lpParam : -1, 0, 999, 업데이트가 완료되었습니다. (2022.06.03.01)
+RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0
